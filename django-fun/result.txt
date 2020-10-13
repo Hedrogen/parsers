@@ -1,0 +1,1060 @@
+1. First steps
+
+Are you new to Django or to programming? This is the place to start!
+
+
+From scratch:
+
+
+	1.1.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/intro/overview/
+
+
+	1.1.2 Installation
+
+
+	https://django.fun/docs/django/en/3.1/intro/install/
+
+
+	1.2.1 Part 1: Requests and responses
+
+
+	https://django.fun/docs/django/en/3.1/intro/tutorial01/
+
+
+	1.2.2 Part 2: Models and the admin site
+
+
+	https://django.fun/docs/django/en/3.1/intro/tutorial02/
+
+
+	1.2.3 Part 3: Views and templates
+
+
+	https://django.fun/docs/django/en/3.1/intro/tutorial03/
+
+
+	1.2.4 Part 4: Forms and generic views
+
+
+	https://django.fun/docs/django/en/3.1/intro/tutorial04/
+
+
+	1.2.5 Part 5: Testing
+
+
+	https://django.fun/docs/django/en/3.1/intro/tutorial05/
+
+
+	1.2.6 Part 6: Static files
+
+
+	https://django.fun/docs/django/en/3.1/intro/tutorial06/
+
+
+	1.2.7 Part 7: Customizing the admin site
+
+
+	https://django.fun/docs/django/en/3.1/intro/tutorial07/
+
+
+	1.3.1 How to write reusable apps
+
+
+	https://django.fun/docs/django/en/3.1/intro/reusable-apps/
+
+
+	1.3.2 Writing your first patch for Django
+
+
+	https://django.fun/docs/django/en/3.1/intro/contributing/
+
+2. Getting help
+
+Having trouble? We’d like to help!
+
+
+
+
+	2.1.1 FAQ
+
+
+	https://django.fun/docs/django/en/3.1/faq/
+
+
+	2.2.1 Index
+
+
+	https://django.fun/docs/django/en/3.1/genindex/
+
+
+	2.2.2 Module Index
+
+
+	https://django.fun/docs/django/en/3.1/py-modindex/
+
+
+	2.2.3 detailed table of contents
+
+
+	https://django.fun/docs/django/en/3.1/contents/
+
+
+	2.3.1 FAQ: Getting Help
+
+
+	https://django.fun/docs/django/en/3.1/faq/help/
+
+
+
+
+	https://django.fun/docs/django/en/3.1/https://code.djangoproject.com/
+
+3. How the documentation is organized
+
+Django has a lot of documentation. A high-level overview of how it’s organized
+will help you know where to look for certain things:
+
+
+
+
+	3.1.1 Tutorials
+
+
+	https://django.fun/docs/django/en/3.1/intro/
+
+
+	3.1.2 First steps
+
+
+	https://django.fun/docs/django/en/3.1/#index-first-steps
+
+
+	3.2.1 Topic guides
+
+
+	https://django.fun/docs/django/en/3.1/topics/
+
+
+	3.3.1 Reference guides
+
+
+	https://django.fun/docs/django/en/3.1/ref/
+
+
+	3.4.1 How-to guides
+
+
+	https://django.fun/docs/django/en/3.1/howto/
+
+4. The model layer
+
+Django provides an abstraction layer (the “models”) for structuring and
+manipulating the data of your Web application. Learn more about it below:
+
+
+Models:
+
+
+	4.1.1 Introduction to models
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/models/
+
+
+	4.1.2 Field types
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/fields/
+
+
+	4.1.3 Indexes
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/indexes/
+
+
+	4.1.4 Meta options
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/options/
+
+
+	4.1.5 Model class
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/class/
+
+
+	4.2.1 Making queries
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/queries/
+
+
+	4.2.2 QuerySet method reference
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/querysets/
+
+
+	4.2.3 Lookup expressions
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/lookups/
+
+
+	4.3.1 Instance methods
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/instances/
+
+
+	4.3.2 Accessing related objects
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/relations/
+
+
+	4.4.1 Introduction to Migrations
+
+
+	https://django.fun/docs/django/en/3.1/topics/migrations/
+
+
+	4.4.2 Operations reference
+
+
+	https://django.fun/docs/django/en/3.1/ref/migration-operations/
+
+
+	4.4.3 SchemaEditor
+
+
+	https://django.fun/docs/django/en/3.1/ref/schema-editor/
+
+
+	4.4.4 Writing migrations
+
+
+	https://django.fun/docs/django/en/3.1/howto/writing-migrations/
+
+
+	4.5.1 Managers
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/managers/
+
+
+	4.5.2 Raw SQL
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/sql/
+
+
+	4.5.3 Transactions
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/transactions/
+
+
+	4.5.4 Aggregation
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/aggregation/
+
+
+	4.5.5 Search
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/search/
+
+
+	4.5.6 Custom fields
+
+
+	https://django.fun/docs/django/en/3.1/howto/custom-model-fields/
+
+
+	4.5.7 Multiple databases
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/multi-db/
+
+
+	4.5.8 Custom lookups
+
+
+	https://django.fun/docs/django/en/3.1/howto/custom-lookups/
+
+
+	4.5.9 Query Expressions
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/expressions/
+
+
+	4.5.10 Conditional Expressions
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/conditional-expressions/
+
+
+	4.5.11 Database Functions
+
+
+	https://django.fun/docs/django/en/3.1/ref/models/database-functions/
+
+
+	4.6.1 Supported databases
+
+
+	https://django.fun/docs/django/en/3.1/ref/databases/
+
+
+	4.6.2 Legacy databases
+
+
+	https://django.fun/docs/django/en/3.1/howto/legacy-databases/
+
+
+	4.6.3 Providing initial data
+
+
+	https://django.fun/docs/django/en/3.1/howto/initial-data/
+
+
+	4.6.4 Optimize database access
+
+
+	https://django.fun/docs/django/en/3.1/topics/db/optimization/
+
+
+	4.6.5 PostgreSQL specific features
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/postgres/
+
+5. The view layer
+
+Django has the concept of “views” to encapsulate the logic responsible for
+processing a user’s request and for returning the response. Find all you need
+to know about views via the links below:
+
+
+The basics:
+
+
+	5.1.1 URLconfs
+
+
+	https://django.fun/docs/django/en/3.1/topics/http/urls/
+
+
+	5.1.2 View functions
+
+
+	https://django.fun/docs/django/en/3.1/topics/http/views/
+
+
+	5.1.3 Shortcuts
+
+
+	https://django.fun/docs/django/en/3.1/topics/http/shortcuts/
+
+
+	5.1.4 Decorators
+
+
+	https://django.fun/docs/django/en/3.1/topics/http/decorators/
+
+
+	5.1.5 Asynchronous Support
+
+
+	https://django.fun/docs/django/en/3.1/topics/async/
+
+
+	5.2.1 Built-in Views
+
+
+	https://django.fun/docs/django/en/3.1/ref/views/
+
+
+	5.2.2 Request/response objects
+
+
+	https://django.fun/docs/django/en/3.1/ref/request-response/
+
+
+	5.2.3 TemplateResponse objects
+
+
+	https://django.fun/docs/django/en/3.1/ref/template-response/
+
+
+	5.3.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/http/file-uploads/
+
+
+	5.3.2 File objects
+
+
+	https://django.fun/docs/django/en/3.1/ref/files/file/
+
+
+	5.3.3 Storage API
+
+
+	https://django.fun/docs/django/en/3.1/ref/files/storage/
+
+
+	5.3.4 Managing files
+
+
+	https://django.fun/docs/django/en/3.1/topics/files/
+
+
+	5.3.5 Custom storage
+
+
+	https://django.fun/docs/django/en/3.1/howto/custom-file-storage/
+
+
+	5.4.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/class-based-views/
+
+
+	5.4.2 Built-in display views
+
+
+	https://django.fun/docs/django/en/3.1/topics/class-based-views/generic-display/
+
+
+	5.4.3 Built-in editing views
+
+
+	https://django.fun/docs/django/en/3.1/topics/class-based-views/generic-editing/
+
+
+	5.4.4 Using mixins
+
+
+	https://django.fun/docs/django/en/3.1/topics/class-based-views/mixins/
+
+
+	5.4.5 API reference
+
+
+	https://django.fun/docs/django/en/3.1/ref/class-based-views/
+
+
+	5.4.6 Flattened index
+
+
+	https://django.fun/docs/django/en/3.1/ref/class-based-views/flattened-index/
+
+
+	5.5.1 Generating CSV
+
+
+	https://django.fun/docs/django/en/3.1/howto/outputting-csv/
+
+
+	5.5.2 Generating PDF
+
+
+	https://django.fun/docs/django/en/3.1/howto/outputting-pdf/
+
+
+	5.6.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/http/middleware/
+
+
+	5.6.2 Built-in middleware classes
+
+
+	https://django.fun/docs/django/en/3.1/ref/middleware/
+
+6. The template layer
+
+The template layer provides a designer-friendly syntax for rendering the
+information to be presented to the user. Learn how this syntax can be used by
+designers and how it can be extended by programmers:
+
+
+The basics:
+
+
+	6.1.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/templates/
+
+
+	6.2.1 Language overview
+
+
+	https://django.fun/docs/django/en/3.1/ref/templates/language/
+
+
+	6.2.2 Built-in tags and filters
+
+
+	https://django.fun/docs/django/en/3.1/ref/templates/builtins/
+
+
+	6.2.3 Humanization
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/humanize/
+
+
+	6.3.1 Template API
+
+
+	https://django.fun/docs/django/en/3.1/ref/templates/api/
+
+
+	6.3.2 Custom tags and filters
+
+
+	https://django.fun/docs/django/en/3.1/howto/custom-template-tags/
+
+
+	6.3.3 Custom template backend
+
+
+	https://django.fun/docs/django/en/3.1/howto/custom-template-backend/
+
+7. Forms
+
+Django provides a rich framework to facilitate the creation of forms and the
+manipulation of form data.
+
+
+The basics:
+
+
+	7.1.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/forms/
+
+
+	7.1.2 Form API
+
+
+	https://django.fun/docs/django/en/3.1/ref/forms/api/
+
+
+	7.1.3 Built-in fields
+
+
+	https://django.fun/docs/django/en/3.1/ref/forms/fields/
+
+
+	7.1.4 Built-in widgets
+
+
+	https://django.fun/docs/django/en/3.1/ref/forms/widgets/
+
+
+	7.2.1 Forms for models
+
+
+	https://django.fun/docs/django/en/3.1/topics/forms/modelforms/
+
+
+	7.2.2 Integrating media
+
+
+	https://django.fun/docs/django/en/3.1/topics/forms/media/
+
+
+	7.2.3 Formsets
+
+
+	https://django.fun/docs/django/en/3.1/topics/forms/formsets/
+
+
+	7.2.4 Customizing validation
+
+
+	https://django.fun/docs/django/en/3.1/ref/forms/validation/
+
+8. The development process
+
+Learn about the various components and tools to help you in the development and
+testing of Django applications:
+
+
+Settings:
+
+
+	8.1.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/settings/
+
+
+	8.1.2 Full list of settings
+
+
+	https://django.fun/docs/django/en/3.1/ref/settings/
+
+
+	8.2.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/ref/applications/
+
+
+	8.3.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/ref/exceptions/
+
+
+	8.4.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/ref/django-admin/
+
+
+	8.4.2 Adding custom commands
+
+
+	https://django.fun/docs/django/en/3.1/howto/custom-management-commands/
+
+
+	8.5.1 Introduction
+
+
+	https://django.fun/docs/django/en/3.1/topics/testing/
+
+
+	8.5.2 Writing and running tests
+
+
+	https://django.fun/docs/django/en/3.1/topics/testing/overview/
+
+
+	8.5.3 Included testing tools
+
+
+	https://django.fun/docs/django/en/3.1/topics/testing/tools/
+
+
+	8.5.4 Advanced topics
+
+
+	https://django.fun/docs/django/en/3.1/topics/testing/advanced/
+
+
+	8.6.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/howto/deployment/
+
+
+	8.6.2 WSGI servers
+
+
+	https://django.fun/docs/django/en/3.1/howto/deployment/wsgi/
+
+
+	8.6.3 ASGI servers
+
+
+	https://django.fun/docs/django/en/3.1/howto/deployment/asgi/
+
+
+	8.6.4 Deploying static files
+
+
+	https://django.fun/docs/django/en/3.1/howto/static-files/deployment/
+
+
+	8.6.5 Tracking code errors by email
+
+
+	https://django.fun/docs/django/en/3.1/howto/error-reporting/
+
+
+	8.6.6 Deployment checklist
+
+
+	https://django.fun/docs/django/en/3.1/howto/deployment/checklist/
+
+9. The admin
+
+Find all you need to know about the automated admin interface, one of Django’s
+most popular features:
+
+
+
+
+	9.1.1 Admin site
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/admin/
+
+
+	9.2.1 Admin actions
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/admin/actions/
+
+
+	9.3.1 Admin documentation generator
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/admin/admindocs/
+
+10. Security
+
+Security is a topic of paramount importance in the development of Web
+applications and Django provides multiple protection tools and mechanisms:
+
+
+
+
+	10.1.1 Security overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/security/
+
+
+	10.2.1 Disclosed security issues in Django
+
+
+	https://django.fun/docs/django/en/3.1/releases/security/
+
+
+	10.3.1 Clickjacking protection
+
+
+	https://django.fun/docs/django/en/3.1/ref/clickjacking/
+
+
+	10.4.1 Cross Site Request Forgery protection
+
+
+	https://django.fun/docs/django/en/3.1/ref/csrf/
+
+
+	10.5.1 Cryptographic signing
+
+
+	https://django.fun/docs/django/en/3.1/topics/signing/
+
+
+	10.6.1 Security Middleware
+
+
+	https://django.fun/docs/django/en/3.1/ref/middleware/#security-middleware
+
+11. Internationalization and localization
+
+Django offers a robust internationalization and localization framework to
+assist you in the development of applications for multiple languages and world
+regions:
+
+
+
+
+	11.1.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/i18n/
+
+
+	11.1.2 Internationalization
+
+
+	https://django.fun/docs/django/en/3.1/topics/i18n/translation/
+
+
+	11.1.3 Localization
+
+
+	https://django.fun/docs/django/en/3.1/topics/i18n/translation/#how-to-create-language-files
+
+
+	11.1.4 Localized Web UI formatting and form input
+
+
+	https://django.fun/docs/django/en/3.1/topics/i18n/formatting/
+
+
+	11.2.1 Time zones
+
+
+	https://django.fun/docs/django/en/3.1/topics/i18n/timezones/
+
+12. Performance and optimization
+
+There are a variety of techniques and tools that can help get your code running
+more efficiently - faster, and using fewer system resources.
+
+
+
+
+	12.1.1 Performance and optimization overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/performance/
+
+13. Geographic framework
+
+GeoDjango intends to be a world-class geographic
+Web framework. Its goal is to make it as easy as possible to build GIS Web
+applications and harness the power of spatially enabled data.
+
+14. Common Web application tools
+
+Django offers multiple tools commonly needed in the development of Web
+applications:
+
+
+Authentication:
+
+
+	14.1.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/topics/auth/
+
+
+	14.1.2 Using the authentication system
+
+
+	https://django.fun/docs/django/en/3.1/topics/auth/default/
+
+
+	14.1.3 Password management
+
+
+	https://django.fun/docs/django/en/3.1/topics/auth/passwords/
+
+
+	14.1.4 Customizing authentication
+
+
+	https://django.fun/docs/django/en/3.1/topics/auth/customizing/
+
+
+	14.1.5 API Reference
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/auth/
+
+
+	14.2.1 Caching
+
+
+	https://django.fun/docs/django/en/3.1/topics/cache/
+
+
+	14.3.1 Logging
+
+
+	https://django.fun/docs/django/en/3.1/topics/logging/
+
+
+	14.4.1 Sending emails
+
+
+	https://django.fun/docs/django/en/3.1/topics/email/
+
+
+	14.5.1 Syndication feeds (RSS/Atom)
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/syndication/
+
+
+	14.6.1 Pagination
+
+
+	https://django.fun/docs/django/en/3.1/topics/pagination/
+
+
+	14.7.1 Messages framework
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/messages/
+
+
+	14.8.1 Serialization
+
+
+	https://django.fun/docs/django/en/3.1/topics/serialization/
+
+
+	14.9.1 Sessions
+
+
+	https://django.fun/docs/django/en/3.1/topics/http/sessions/
+
+
+	14.10.1 Sitemaps
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/sitemaps/
+
+
+	14.11.1 Static files management
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/staticfiles/
+
+
+	14.12.1 Data validation
+
+
+	https://django.fun/docs/django/en/3.1/ref/validators/
+
+15. Other core functionalities
+
+Learn about some other core functionalities of the Django framework:
+
+
+
+
+	15.1.1 Conditional content processing
+
+
+	https://django.fun/docs/django/en/3.1/topics/conditional-view-processing/
+
+
+	15.2.1 Content types and generic relations
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/contenttypes/
+
+
+	15.3.1 Flatpages
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/flatpages/
+
+
+	15.4.1 Redirects
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/redirects/
+
+
+	15.5.1 Signals
+
+
+	https://django.fun/docs/django/en/3.1/topics/signals/
+
+
+	15.6.1 System check framework
+
+
+	https://django.fun/docs/django/en/3.1/topics/checks/
+
+
+	15.7.1 The sites framework
+
+
+	https://django.fun/docs/django/en/3.1/ref/contrib/sites/
+
+
+	15.8.1 Unicode in Django
+
+
+	https://django.fun/docs/django/en/3.1/ref/unicode/
+
+16. The Django open-source project
+
+Learn about the development process for the Django project itself and about how
+you can contribute:
+
+
+Community:
+
+
+	16.1.1 How to get involved
+
+
+	https://django.fun/docs/django/en/3.1/internals/contributing/
+
+
+	16.1.2 The release process
+
+
+	https://django.fun/docs/django/en/3.1/internals/release-process/
+
+
+	16.1.3 Team organization
+
+
+	https://django.fun/docs/django/en/3.1/internals/organization/
+
+
+	16.1.4 The Django source code repository
+
+
+	https://django.fun/docs/django/en/3.1/internals/git/
+
+
+	16.1.5 Security policies
+
+
+	https://django.fun/docs/django/en/3.1/internals/security/
+
+
+	16.1.6 Mailing lists
+
+
+	https://django.fun/docs/django/en/3.1/internals/mailing-lists/
+
+
+	16.2.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/misc/design-philosophies/
+
+
+	16.3.1 About this documentation
+
+
+	https://django.fun/docs/django/en/3.1/internals/contributing/writing-documentation/
+
+
+	16.4.1 Overview
+
+
+	https://django.fun/docs/django/en/3.1/misc/distributions/
+
+
+	16.5.1 API stability
+
+
+	https://django.fun/docs/django/en/3.1/misc/api-stability/
+
+
+	16.5.2 Release notes and upgrading instructions
+
+
+	https://django.fun/docs/django/en/3.1/releases/
+
+
+	16.5.3 Deprecation Timeline
+
+
+	https://django.fun/docs/django/en/3.1/internals/deprecation/
+
